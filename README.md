@@ -10,6 +10,11 @@ This project builds a serverless ETL pipeline that:
 - Loads it into an S3 data lake
 - Is triggered via API Gateway
 
+# Data Source
+
+- https://covid19api.com
+- Or download CSV from Johns Hopkins CSSE GitHub
+
 ## Stack
 - AWS Lambda
 - Amazon S3
